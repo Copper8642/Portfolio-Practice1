@@ -1,0 +1,4 @@
+Genres = ["Action", "Roleplaying", "Strategy", "Adventure", "Simulation", "Sports"]
+Games = [["Stabby Man", "Action", 10, 4/5], ["The Fondler", "Roleplaying", 50, 5/5], ["Gooblies", "Strategy", 45, 2/5], ["Go Over Yonger", "Adventure", 30, 4/5], ["Thing Doer", "Simulation", 30, 2/5], ["Slap Machine", "Sports", 12, 3/5],
+ ["Get To Da Choppa", "Action", 25, 3/5], ["Experience Points", "Roleplaying", 50, 1/5], ["Spearmen", "Strategy", 30, 5/5], ["Yeet", "Adventure", 8, 5/5], ["The SimSim", "Simulation", 30, 4/5], ["Olympic Frogs", "Sports", 20, 3/5], 
+ ["Don't Fuck It Up", "Action", 1, 3/5], ["Minimap", "Strategy", 34, 2/5], ["Moose Simulator", "Simulation", 45, 1/5]]
